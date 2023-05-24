@@ -7,9 +7,16 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
+    "css-loader": "^6.7.4",
     "next": "latest",
+    "node-sass": "^7.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.0",
+    "style-loader": "^3.3.3"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
